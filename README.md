@@ -1,28 +1,345 @@
-<h1 align="center">Hello World 👋, PuppyDev is here</h1>
-<h3 align="center">A passionate developer from Iran</h3>
+<h1 align="left">About Me</h1>
 
-Motivated and experienced web developers with WordPress and Strapi development background. Looking for a new opportunity to continue building and optimizing web development, using our coding, analysis and debugging skills. Passionate about open source technology and dedicated to improving our skills in this field.
+###
 
-<h3 align="left">Our Specialties:</h3>
-<p>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-696969?style=flat-square&logo=express&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-eeee44?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-2b80ff?style=flat-square&logo=css3&logoColor=white" />
-</p>
-<h3 align="left">Our CMS:</h3>
-<p>
-  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-0155A4?style=flat-square&logo=wordpress&logoColor=white" />
-  <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-9C08BD?style=flat-square&logo=strapi&logoColor=white" />
-</p>
-<h3 align="left">Our Skills:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">Hello! I'm PuppyDev , a passionate software developer with a focus on backend development and DevOps. I enjoy tackling complex technical challenges and building efficient, scalable solutions. My expertise lies in technologies like Python, Django, Docker, and AI-driven tools such as LLMs and RAG. I’m also experienced in database design, API development, and infrastructure management.</p>
 
+###
+
+<h1 align="left">What I Do</h1>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="20" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="20" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="20" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="20" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="20" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=appwrite" height="20" alt="appwrite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="20" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=babel" height="20" alt="babel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="20" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="20" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="20" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="20" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="20" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="20" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=emotion" height="20" alt="emotion logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="20" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="20" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gatsby" height="20" alt="gatsby logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="20" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="20" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="20" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="20" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="20" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="20" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="20" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="20" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="20" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="20" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="20" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="20" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="20" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="20" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="20" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="20" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="20" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="20" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="20" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="20" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="20" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="20" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="20" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="20" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="20" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tauri" height="20" alt="tauri logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="20" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="20" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="20" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="20" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="20" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="20" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="20" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="20" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="20" alt="woocommerce logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="20" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="20" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="20" alt="neo4j logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="20" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="20" alt="jira logo"  />
+</div>
+
+###
+
+<p align="left">- Backend Development: Crafting robust APIs and server-side logic using Python, Django, and Node.js.<br><br>- DevOps & Infrastructure: Managing containerized environments with Docker and CI/CD pipelines.<br><br>- AI & Data: Working on AI projects involving LLMs, RAG, and vector databases for intelligent applications.<br><br>- Open Source: Actively contributing to open-source projects and exploring innovative tools to optimize workflows.</p>
+
+###
+
+<h1 align="left">Fun Fact</h1>
+
+###
+
+<p align="left">When I'm not coding, you can find me experimenting with new tech stacks or diving into a good sci-fi book!<br>Feel free to connect with me on LinkedIn or check out my projects!</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+###
+
+<div align="right">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakeri-dev&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/zakeri-dev/zakeri-dev/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+<h3>Some of my work:</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>-</b></td>
+      <td><b>-</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+          <table>
+            <thead align="center">
+              <tr border: none;>
+                <td><b>Name</b></td>
+                <td><b>Owner</b></td>
+                <td><b>Perview</b></td>
+              </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="https://mhk.hair/"><b>MHK</b></a></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="50"/></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/mhk.hair_-1.png" alt="typescript" width="150"/></td>
+                </tr>
+                <tr>
+                    <td><a href="https://ng-network.com/"><b>NG network</b></a></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="50"/></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/multiple-devices-mockup-scene@2x-1-1.png" alt="typescript" width="150"/></td>
+                </tr>
+                <tr>
+                    <td><a href="https://www.nextseen.com/"><b>NEXT SEN</b></a></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="50"/></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/Screenshot_1.png" alt="typescript" width="150"/></td>
+                </tr>
+                <tr>
+                    <td><a href="https://www.ft-tec.com/"><b>FT-Tec</b></a></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="50"/></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/Screenshot_2.png" alt="typescript" width="150"/></td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://expertcode.at/"><b>Expert Code</b></a></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="50"/></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/Screenshot_3.png" alt="typescript" width="150"/></td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://arteq.io/"><b>Arteq</b></a></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="50"/></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/macbook-pro-mockup-scene@2x-1.jpg" alt="typescript" width="150"/></td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://avayetowheed.ir/"><b>Avaye Towheed</b></a></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/8ea59f10315bed9b834bc0f7957921d50ab15882/barnamenavisan.jpg" alt="typescript" width="50"/></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/Screenshot_5.png" alt="typescript" width="150"/></td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://rc.avayetowheed.ir/"><b>AT RC</b></a></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/8ea59f10315bed9b834bc0f7957921d50ab15882/barnamenavisan.jpg" alt="typescript" width="50"/></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/Screenshot_6.png" alt="typescript" width="150"/></td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://news.avayetowheed.ir/"><b>AT News</b></a></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/8ea59f10315bed9b834bc0f7957921d50ab15882/barnamenavisan.jpg" alt="typescript" width="50"/></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/Screenshot_8.png" alt="typescript" width="150"/></td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://shop.avayetowheed.ir/"><b>AT Shop</b></a></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/8ea59f10315bed9b834bc0f7957921d50ab15882/barnamenavisan.jpg" alt="typescript" width="50"/></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/Screenshot_9.png" alt="typescript" width="150"/></td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://madras.avayetowheed.ir/"><b>AT Madras</b></a></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/8ea59f10315bed9b834bc0f7957921d50ab15882/barnamenavisan.jpg" alt="typescript" width="50"/></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/Screenshot_10.png" alt="typescript" width="150"/></td>
+                  </tr>
+                  <tr>
+                    <td><a href="https://en.avayetowheed.ir/"><b>AT en</b></a></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/8ea59f10315bed9b834bc0f7957921d50ab15882/barnamenavisan.jpg" alt="typescript" width="50"/></td>
+                    <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/Screenshot_7.png" alt="typescript" width="150"/></td>
+                  </tr>
+            </tbody>
+          </table>
+        </td>
+        <td>
+          <table>
+            <thead align="center">
+              <tr border: none;>
+                <td><b>Name</b></td>
+                <td><b>Owner</b></td>
+                <td><b>Perview</b></td>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><a href="http://lmsava.ir/"><b>LMS Ava</b></a></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/231571774712804ef225698b2014238a45e12957/jaguarsdev.jpg" alt="typescript" width="50"/></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/Screenshot_12.png" alt="typescript" width="150"/></td>
+              </tr>
+              <tr>
+                <td><a href="https://inic.me/"><b>INIC</b></a></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/231571774712804ef225698b2014238a45e12957/jaguarsdev.jpg" alt="typescript" width="50"/></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/f02b689e69a84a597963b55b3cc37c1773990464/Untitled-3.jpg" alt="typescript" width="150"/></td>
+              </tr>
+              <tr>
+                <td><a href=""><b>INIC Web App</b></a></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/231571774712804ef225698b2014238a45e12957/jaguarsdev.jpg" alt="typescript" width="50"/></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/f02b689e69a84a597963b55b3cc37c1773990464/Untitled-3.jpg" alt="typescript" width="150"/></td>
+              </tr>
+              <tr>
+                <td><a href=""><b>CHITA LEARN</b></a></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/231571774712804ef225698b2014238a45e12957/jaguarsdev.jpg" alt="typescript" width="50"/></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/f02b689e69a84a597963b55b3cc37c1773990464/Untitled-3.jpg" alt="typescript" width="150"/></td>
+              </tr>
+              <tr>
+                <td><a href="https://ct44.ir/"><b>CT44</b></a></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/231571774712804ef225698b2014238a45e12957/jaguarsdev.jpg" alt="typescript" width="50"/></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/Screenshot_11.png" alt="typescript" width="150"/></td>
+              </tr>
+              <tr>
+                <td><a href=""><b>Automation</b></a></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/231571774712804ef225698b2014238a45e12957/jaguarsdev.jpg" alt="typescript" width="50"/></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/f02b689e69a84a597963b55b3cc37c1773990464/Untitled-3.jpg" alt="typescript" width="150"/></td>
+              </tr>
+              <tr>
+                <td><a href="https://master.tube"><b>Master Tube</b></a></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="50"/></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/82b4f464d6072e5e5abe9f615f80798ed1b3d2b7/macbook-pro-and-iphone-xs-mockup-scene@2x-2.png" alt="typescript" width="150"/></td>
+              </tr>
+              <tr>
+                <td><a href="https://dfirst.eu/"><b>D First</b></a></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="50"/></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/website-showcase-mockup-scene@2x.png" alt="typescript" width="150"/></td>
+              </tr>
+              <tr>
+                <td><a href="https://unite-world.com/"><b>UNITE</b></a></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="50"/></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/macbook-pro-stock-mockup-scene@2x-1.png" alt="typescript" width="150"/></td>
+              </tr>
+              <tr>
+                <td><a href="https://www.sys8-holding.com/"><b>SYS8</b></a></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="50"/></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/84cc4b632d7451b4577d157493e63189ddede207/27-imac-mockup-scene@2x.png" alt="typescript" width="150"/></td>
+              </tr>
+              <tr>
+                <td><a href="https://amepro.at/"><b>Amepro</b></a></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/7108cc98fe48e4f0e994a4507f09687a46272d44/omegado.jpg" alt="typescript" width="50"/></td>
+                <td><img src="https://github.com/zakeri-dev/zakeri-dev/blob/main/amepro.at_-1.png" alt="typescript" width="150"/></td>
+            </tr>
+            </tbody>
+          </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
